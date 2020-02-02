@@ -9,7 +9,7 @@
 
   - Vue.js Reactivity in depth By Béchir Nemlaghi.
 
-  -Deploy a Node.js Microservice to Kubernetes With GitOps By Walid Dridi.
+  - Deploy a Node.js Microservice to Kubernetes With GitOps By Walid Dridi.
 
   - PWA (how to improve the UX of your Web App) By Mohamed Karim Oueslati.
 
