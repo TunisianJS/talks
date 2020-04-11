@@ -9,7 +9,7 @@
 
   - No Front-End Framework By Burawi Ben Ammar.
 
-  - Go Functional with Scala.js Saddam Abu Ghaida.
+  - Go Functional with Scala.js By Saddam Abu Ghaida.
 
   - Lodash Library !! By Fares Karbia.
 
