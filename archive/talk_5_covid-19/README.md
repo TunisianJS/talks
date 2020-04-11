@@ -17,4 +17,4 @@
   - Blockchain & Smart Contract Fundamental By Moez Gharsallah.
 
 
-## Watch our Meetup
+## [Watch our Meetup 📺](https://www.facebook.com/TunisianJS/videos/526470824729308)
