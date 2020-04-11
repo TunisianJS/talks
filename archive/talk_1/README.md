@@ -9,7 +9,7 @@
 
   - React Hooks Fundamental By Mohamed Anas Ben Othman.
 
-  - Crafting big Angular apps By Chehir Dhawedi.
+  - Introdduction to Angular 8 apps By Chehir Dhawedi.
 
   - GraphQL Fundamental By Heithem Moumni.
 
