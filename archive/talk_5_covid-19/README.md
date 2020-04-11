@@ -14,7 +14,7 @@
 
   - Building a linux container runtime like Docker By Walid Dridi.
 
-  - Blockchain & Smart Contract Fundamental By Moez Gharsallah.
+  - Blockchain and Smart Contract Fundamental By Moez Gharsallah.
 
 
 ## [Watch our Meetup 📺](https://www.facebook.com/TunisianJS/videos/526470824729308)
