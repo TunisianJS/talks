@@ -1,5 +1,8 @@
-# 4th talk ~ 7/03/2020
+# 5th talk ~ covid-19 ~ 12/04/2020
 ---
+
+> We are online 🚀 .. 
+
 
 ## Place :  
   - [127.0.0.1](https://en.wikipedia.org/wiki/Localhost);
@@ -7,8 +10,11 @@
 
 ## Talks : 
 
-  - No Front-End Framework By Burawi Ben Ammar.
+  - Redux or Not to Redux By Medhat Dawoud.
 
-  - Go Functional with Scala.js Saddam Abu Ghaida.
+  - Building a linux container runtime like Docker By Walid Dridi.
 
-  - Lodash Library !! By Fares Karbia.
+  - Blockchain & Smart Contract Fundamental By Moez Gharsallah.
+
+
+## Watch our Meetup
