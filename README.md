@@ -1,15 +1,15 @@
 # Talks 
 ---
 
-This is the space to archive all __slides__ presented during our events 🗃
-and propose the __talks__ to give at __`Tunisia JS Community`__ meetups 🎗.
+This is the space to archive all __slides__ presented during our events 🗃 and propose
+the __talks__ to give at __`Tunisia JS Community`__ meetups 🎗.
 
 
 We want __YOU__ to come talk or present at a future __Tunisia JS Community__
 event 👋🏻. <small>(Seriously, we want you to do it.)</small>
 
 
-### Format of the talks
+## Format of the talks
 
 We have 4 talks where two of them are about the JavaScript ecosystem, one
 for other topics like ~Ops and the last one is about OSS and that's part
@@ -22,7 +22,7 @@ add a list of our meetups)</small>
 
 > You can navigate the *archive folder* and read the *README.md* from each *talk_n folder*.
 
-### How to submit a talk
+## How to submit a talk
 
 It's easy. open an issue to propose a talk.
 
@@ -44,7 +44,7 @@ __`Note: If you'd prefer not to use GitHub for any reason, you can also submit t
 ## Meetup List: 🚧 Work In Progress
 -->
 
-### Archive Layout:
+## Archive Layout:
 
 ```shell
 ├── archive/                                  # archive dir ..
