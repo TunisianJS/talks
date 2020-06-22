@@ -1,6 +1,8 @@
 # Talks 
 ---
 
+> This repository maintained by [Imed Jaberi](https://www.3imed-jaberi.com) 👷🏻.
+
 This is the space to archive all __slides__ presented during our events 🗃 and propose
 the __talks__ to give at __`Tunisia JS Community`__ meetups 🎗.
 
