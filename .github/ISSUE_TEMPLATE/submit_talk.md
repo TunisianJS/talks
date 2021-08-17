@@ -1,17 +1,17 @@
 ---
 name: Submit a talk
 about: Create a report to submit new talk ..
-title: ''
-labels: ''
-assignees: ''
+title: ""
+labels: ""
+assignees: ""
 ---
 
-#### FIRSTNAME:
-#### LASTNAME:
-###### BIO:
-###### TOPIC:
-###### TITLE:
-###### PHOTO:
-###### TWITTER (or other social media link): 
+- First Name:
+- Last Name:
+- Bio:
+- Talk Title:
+- Talk Resume:
+- Photo:
+- Twitter (or other social media link):
 
-Additions: 
+Additions:
