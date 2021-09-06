@@ -14,4 +14,4 @@
 
   - React state a choice overload By Chemseddine Bouzaiene.
 
-  - Debugging in JavaScript By Chemseddine Bouzaiene.
+  - Debugging in JavaScript By Mohamed Anas Ben Othman.
